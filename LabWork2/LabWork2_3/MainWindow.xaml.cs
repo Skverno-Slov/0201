@@ -17,6 +17,8 @@ namespace LabWork2_3
     /// </summary>
     public partial class MainWindow : Window
     {
+        private string errorMessage;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -26,9 +28,16 @@ namespace LabWork2_3
         {
             try
             {
+                errorMessage = "";
                 TestLogin(LoginTextBox.Text.Trim());
                 TestPassword(PasswordBox.Password, ConfirmPasswordBox.Password.Trim());
                 TestEmail(EmailTextBox.Text.Trim());
+
+                if (!String.IsNullOrWhiteSpace(errorMessage))
+                {
+                    ShowError(errorMessage);
+                    return;
+                }
 
                 ShowSucces(LoginTextBox.Text.Trim());
             }
@@ -41,34 +50,54 @@ namespace LabWork2_3
         void TestPassword(string password, string confirmPassword)
         {
             if (String.IsNullOrEmpty(password))
-                throw new Exception("Введите пароль");
-
-            if (String.IsNullOrEmpty(confirmPassword))
-                throw new Exception("Введите подтверждение пароля");
+            {
+                errorMessage += "Введите пароль.\n";
+                return;
+            }
 
             string regex = @"^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,30}$";
             if (!Regex.Match(password, regex).Success)
-                throw new Exception("Пароль дожен быть от 8 до 30 сиволов, содержать латинские буквы верхнего и нижнего регистра, цифры и спецсимволы");
+            {
+                errorMessage += "Пароль дожен быть от 8 до 30 сиволов, содержать латинские буквы верхнего и нижнего регистра, цифры и спецсимволы.\n";
+                return;
+            }
 
-            if(password != confirmPassword)
-                throw new Exception("Пароли не сопадают");
+            if (String.IsNullOrEmpty(confirmPassword))
+            {
+                errorMessage += "Введите подтверждение пароля.\n";
+                return;
+            }
 
+            if (password != confirmPassword)
+            {
+                errorMessage += "Пароли не сопадают.\n";
+                return;
+            }
         }
 
         void TestLogin(string login)
         {
             if (String.IsNullOrEmpty(login))
-                throw new Exception("Введите логин");
+            {
+                errorMessage += "Введите логин.\n";
+                return;
+            }
         }
 
         void TestEmail(string email)
         {
             if (String.IsNullOrEmpty(email))
-                throw new Exception("Введите пароль");
+            {
+                errorMessage += "Введите почту.\n";
+                return;
+            }
 
             string regex = @"^\S+@\S+\.\S+$";
             if (!Regex.Match(email, regex).Success)
-                throw new Exception("Некорректно введена почта");
+            {
+                errorMessage += "Некорректно введена почта.\n";
+                return;
+            }
         }
 
         void ShowError(string message)
@@ -78,7 +107,7 @@ namespace LabWork2_3
 
         void ShowSucces(string login)
         {
-            MessageBox.Show($"Вы зарегистрировались по логином {login}", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show($"Вы зарегистрировались с логином {login}", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }
 }
