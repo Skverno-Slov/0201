@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PractWork3.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761e36ffe6433e074ee3242b4cfbd7dd577d1c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daa55047cb7ada976c274550e6bc9228d2661e7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PractWork3.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PractWork3.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,9 +8,6 @@ client.BaseAddress = new Uri("http://localhost:5230/api/");
 while (true) {
     Console.WriteLine("1. Список пользователей.");
     Console.WriteLine("2. Детальный просмотр");
-    Console.WriteLine("3. Добавление пользователя");
-    Console.WriteLine("4. Изменение пользователя");
-    Console.WriteLine("5. Удаление пользователя");
 
     var option = Console.ReadKey();
 
@@ -20,12 +17,7 @@ while (true) {
             PrintList();
             break;
         case '2':
-            break;
-        case '3':
-            break;
-        case '4':
-            break;
-        case '5':
+            PrintDetails();
             break;
         default:
             break;
@@ -44,7 +36,9 @@ static void PrintList()
         try
         {
             Console.WriteLine($"Страница: {page}. Размер страницы {pageSize}.");
-            client.GetFromJsonAsync("");
+            Console.WriteLine("Table");
+            Console.WriteLine("Действия: <, >, Добавить, sort:<Столбец>, filter:<столбец>,<данные сортировки>, exit");
+            var option = Console.ReadLine();
         }
         catch 
         {
@@ -52,3 +46,19 @@ static void PrintList()
         }
     }
 }
+
+static void PrintDetails()
+{
+    Console.WriteLine("Введите логин");
+    var option = Console.ReadLine();
+
+    Console.WriteLine("User");
+    Console.WriteLine("Действия: Удалить, Изменить, exit");
+}
+
+static void ChangeUser(User user)
+{
+    Console.WriteLine("Введите новые данные (пустое - без измен)");
+}
+
+

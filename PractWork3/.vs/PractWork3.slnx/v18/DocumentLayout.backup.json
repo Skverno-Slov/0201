@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\temp\\ispp31\\0201\\PractWork3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33E0B820-AC79-42E2-A420-3864A7515DFD}|PractWork3.Client\\PractWork3.Client.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33E0B820-AC79-42E2-A420-3864A7515DFD}|PractWork3.Client\\PractWork3.Client.csproj|solutionrelative:practwork3.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02F5A9DF-62CF-4B1E-8989-6FC5C32875FB}|PractWork3.Desktop\\PractWork3.Desktop.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02F5A9DF-62CF-4B1E-8989-6FC5C32875FB}|PractWork3.Desktop\\PractWork3.Desktop.csproj|solutionrelative:practwork3.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{02F5A9DF-62CF-4B1E-8989-6FC5C32875FB}|PractWork3.Desktop\\PractWork3.Desktop.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F5A9DF-62CF-4B1E-8989-6FC5C32875FB}|PractWork3.Desktop\\PractWork3.Desktop.csproj|solutionrelative:practwork3.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E0B820-AC79-42E2-A420-3864A7515DFD}|PractWork3.Client\\PractWork3.Client.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E0B820-AC79-42E2-A420-3864A7515DFD}|PractWork3.Client\\PractWork3.Client.csproj|solutionrelative:practwork3.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,40 +27,32 @@
       "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\dtos\\filterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\models1\\sortoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\models1\\sortoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\models\\sortoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\models\\sortoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\models1\\filteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\models1\\filteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\models1\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\models1\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\models1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\models1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\models\\filteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\models\\filteroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PractWork3.Server\\Contexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|solutionrelative:practwork3.server\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{919D4D63-980A-4496-B64D-ADAA2CB22C76}|PractWork3.Server\\PractWork3.Server.csproj|c:\\temp\\ispp31\\0201\\practwork3\\practwork3.server\\practwork3.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -70,11 +66,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PractWork3.Desktop\\MainWindow.xaml",
+              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "PractWork3.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-22T12:50:14.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PractWork3.Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PractWork3.Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T12:50:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilterOptions.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models\\FilterOptions.cs",
+              "RelativeDocumentMoniker": "PractWork3.Server\\Models\\FilterOptions.cs",
+              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models\\FilterOptions.cs",
+              "RelativeToolTip": "PractWork3.Server\\Models\\FilterOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:48:26.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortOptions.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models\\SortOptions.cs",
+              "RelativeDocumentMoniker": "PractWork3.Server\\Models\\SortOptions.cs",
+              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models\\SortOptions.cs",
+              "RelativeToolTip": "PractWork3.Server\\Models\\SortOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:47:52.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PractWork3.Server\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "PractWork3.Server\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:46:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "PractWork3.Server\\Properties\\launchSettings.json",
@@ -87,54 +147,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FilterDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Dtos\\FilterDto.cs",
               "RelativeDocumentMoniker": "PractWork3.Server\\Dtos\\FilterDto.cs",
               "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Dtos\\FilterDto.cs",
               "RelativeToolTip": "PractWork3.Server\\Dtos\\FilterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T11:05:12.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Program.cs",
               "RelativeDocumentMoniker": "PractWork3.Server\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Program.cs",
               "RelativeToolTip": "PractWork3.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T10:57:26.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FilterOptions.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\FilterOptions.cs",
-              "RelativeDocumentMoniker": "PractWork3.Server\\Models1\\FilterOptions.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\FilterOptions.cs",
-              "RelativeToolTip": "PractWork3.Server\\Models1\\FilterOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T10:50:46.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SortOptions.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\SortOptions.cs",
-              "RelativeDocumentMoniker": "PractWork3.Server\\Models1\\SortOptions.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\SortOptions.cs",
-              "RelativeToolTip": "PractWork3.Server\\Models1\\SortOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T10:30:32.482Z",
               "EditorCaption": ""
             },
             {
@@ -145,7 +179,7 @@
               "RelativeDocumentMoniker": "PractWork3.Server\\Controllers\\UserController.cs",
               "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Controllers\\UserController.cs",
               "RelativeToolTip": "PractWork3.Server\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T10:17:12.408Z",
               "EditorCaption": ""
@@ -153,45 +187,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Services\\RoleService.cs",
-              "RelativeDocumentMoniker": "PractWork3.Server\\Services\\RoleService.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Services\\RoleService.cs",
-              "RelativeToolTip": "PractWork3.Server\\Services\\RoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T10:02:49.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\Role.cs",
-              "RelativeDocumentMoniker": "PractWork3.Server\\Models1\\Role.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\Role.cs",
-              "RelativeToolTip": "PractWork3.Server\\Models1\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T10:00:37.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\User.cs",
-              "RelativeDocumentMoniker": "PractWork3.Server\\Models1\\User.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Models1\\User.cs",
-              "RelativeToolTip": "PractWork3.Server\\Models1\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T10:00:23.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "RoleDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Dtos\\RoleDto.cs",
               "RelativeDocumentMoniker": "PractWork3.Server\\Dtos\\RoleDto.cs",
@@ -204,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "PractWork3.Server\\Dtos\\UserDto.cs",
@@ -217,13 +212,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "PractWork3.Server\\Services\\UserService.cs",
               "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Services\\UserService.cs",
               "RelativeToolTip": "PractWork3.Server\\Services\\UserService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T09:59:26.415Z",
               "EditorCaption": ""
@@ -231,19 +226,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Data.cs",
-              "RelativeDocumentMoniker": "PractWork3.Server\\Data.cs",
-              "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\Data.cs",
-              "RelativeToolTip": "PractWork3.Server\\Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T09:59:14.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "PractWork3.Server",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Server\\PractWork3.Server.csproj",
               "RelativeDocumentMoniker": "PractWork3.Server\\PractWork3.Server.csproj",
@@ -256,13 +238,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Client\\Program.cs",
               "RelativeDocumentMoniker": "PractWork3.Client\\Program.cs",
               "ToolTip": "C:\\temp\\ispp31\\0201\\PractWork3\\PractWork3.Client\\Program.cs",
               "RelativeToolTip": "PractWork3.Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-22T09:47:41.955Z",
               "EditorCaption": ""
