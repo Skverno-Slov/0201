@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PractWork3.Client/PractWork3.Client.csproj" />
+  <Project Path="PractWork3.Desktop/PractWork3.Desktop.csproj" />
+  <Project Path="PractWork3.Server/PractWork3.Server.csproj" />
+</Solution>

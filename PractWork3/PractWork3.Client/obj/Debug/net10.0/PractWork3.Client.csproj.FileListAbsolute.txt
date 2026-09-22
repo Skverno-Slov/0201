@@ -1,0 +1,15 @@
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\bin\Debug\net10.0\PractWork3.Client.exe
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\bin\Debug\net10.0\PractWork3.Client.deps.json
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\bin\Debug\net10.0\PractWork3.Client.runtimeconfig.json
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\bin\Debug\net10.0\PractWork3.Client.dll
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\bin\Debug\net10.0\PractWork3.Client.pdb
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.AssemblyInfoInputs.cache
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.AssemblyInfo.cs
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.csproj.CoreCompileInputs.cache
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.sourcelink.json
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.dll
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\refint\PractWork3.Client.dll
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.pdb
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\PractWork3.Client.genruntimeconfig.cache
+C:\temp\ispp31\0201\PractWork3\PractWork3.Client\obj\Debug\net10.0\ref\PractWork3.Client.dll
